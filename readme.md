@@ -6,7 +6,8 @@ this project is a simple game which is built with python, opencv and image proce
 
 just download the repository and install requierements.txt
 
-`git clone repository`
+`git clone https://github.com/mcihadarslanoglu/catch-the-green-field.git`
+
 `pip install -r requierements.txt`
 
 # How to run?
